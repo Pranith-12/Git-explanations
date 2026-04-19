@@ -1,4 +1,4 @@
-# 🚀 Git & GitHub Basics Guide
+# 🚀 Git & GitHub 
 
 ## 📌 What is Git?
 
