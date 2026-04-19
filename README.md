@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # 🚀 Git & GitHub 
-=======
-# 🚀 Git &  Basics Guide
->>>>>>> 416f24b3d39242ea2c629773b5e8f9f8aec3f336
 
 ## 📌 What is Git?
 
@@ -14,7 +10,7 @@ GitHub is a **cloud platform** where you can store Git repositories and collabor
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation git 
 
 ### Install Git
 
