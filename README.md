@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🚀 Git & GitHub 
+=======
+# 🚀 Git &  Basics Guide
+>>>>>>> 416f24b3d39242ea2c629773b5e8f9f8aec3f336
 
 ## 📌 What is Git?
 
